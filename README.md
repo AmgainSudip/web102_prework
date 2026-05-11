@@ -35,8 +35,8 @@ GIF created with LiceCap
 
 ## Notes
 
-<p>Describe any challenges encountered while building the app.<.p>
-*=>I didn't encounter much difficulty throughout the app as the instructions were helpful and clear. 
+<p>Describe any challenges encountered while building the app.<p>
+=>I didn't encounter much difficulty throughout the app as the instructions were helpful and clear. 
 
 ## License
 
