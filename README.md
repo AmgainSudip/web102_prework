@@ -16,7 +16,7 @@ The following **required** functionality is completed:
 * [✓] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 The following **optional** features are implemented:
-I updated the CSS with different color choices and animations.
+* I updated the CSS with different color choices and animations. *
 * [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
